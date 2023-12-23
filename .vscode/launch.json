@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Recursion13",
+            "request": "launch",
+            "mainClass": "Recursion13",
+            "projectName": "Java2.1_f0a3bbb"
+        },
+        {
+            "type": "java",
+            "name": "Recursion12",
+            "request": "launch",
+            "mainClass": "Recursion12",
+            "projectName": "Java2.1_f0a3bbb"
+        },
+        {
+            "type": "java",
+            "name": "Recursion11",
+            "request": "launch",
+            "mainClass": "Recursion11",
+            "projectName": "Java2.1_f0a3bbb"
+        },
+        {
+            "type": "java",
+            "name": "Recursion10",
+            "request": "launch",
+            "mainClass": "Recursion10",
+            "projectName": "Java2.1_f0a3bbb"
+        },
+        {
+            "type": "java",
+            "name": "Recursion9",
+            "request": "launch",
+            "mainClass": "Recursion9",
+            "projectName": "Java2.1_f0a3bbb"
+        },
+        {
+            "type": "java",
+            "name": "Recursion8",
+            "request": "launch",
+            "mainClass": "Recursion8",
+            "projectName": "Java2.1_f0a3bbb"
+        },
+        {
+            "type": "java",
+            "name": "Recursion7",
+            "request": "launch",
+            "mainClass": "Recursion7",
+            "projectName": "Java2.1_f0a3bbb"
+        },
+        {
+            "type": "java",
+            "name": "Recursion6",
+            "request": "launch",
+            "mainClass": "Recursion6",
+            "projectName": "Java2.1_f0a3bbb"
+        },
+        {
+            "type": "java",
+            "name": "Recursion5",
+            "request": "launch",
+            "mainClass": "Recursion5",
+            "projectName": "Java2.1_f0a3bbb"
+        },
+        {
+            "type": "java",
+            "name": "Recursion4",
+            "request": "launch",
+            "mainClass": "Recursion4",
+            "projectName": "Java2.1_f0a3bbb"
+        },
+        {
+            "type": "java",
+            "name": "Recursion3",
+            "request": "launch",
+            "mainClass": "Recursion3",
+            "projectName": "Java2.1_f0a3bbb"
+        },
+        {
+            "type": "java",
+            "name": "Recursion2$Main",
+            "request": "launch",
+            "mainClass": "Recursion2$Main",
+            "projectName": "Java2.1_f0a3bbb"
+        },
+        {
+            "type": "java",
+            "name": "Recursion1$Main",
+            "request": "launch",
+            "mainClass": "Recursion1$Main",
+            "projectName": "Java2.1_f0a3bbb"
+        },
+        {
+            "type": "java",
+            "name": "Recursions1$Main",
+            "request": "launch",
+            "mainClass": "Recursions1$Main",
+            "projectName": "Java2.1_f0a3bbb"
+        },
+        {
+            "type": "java",
+            "name": "Sortings3$Main",
+            "request": "launch",
+            "mainClass": "Sortings3$Main",
+            "projectName": "Java2.1_f0a3bbb"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Sortings1$Main",
+            "request": "launch",
+            "mainClass": "Sortings1$Main",
+            "projectName": "Java2.1_f0a3bbb"
+        },
+        {
+            "type": "java",
+            "name": "Sortings2$Main",
+            "request": "launch",
+            "mainClass": "Sortings2$Main",
+            "projectName": "Java2.1_f0a3bbb"
+        }
+    ]
+}
